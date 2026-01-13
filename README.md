@@ -1,5 +1,11 @@
 # excel-cookies-analysis
 
+## Cookies Sales Dashboard
+
+![Cookies Sales Dashboard](Dashboard.png)
+
+
+
 ## Overview
 
 This repository contains an Excel-based sales analysis project completed during the Data Technician Skills Bootcamp. The task focused on analysing a fictional cookie sales dataset using core Excel functionality and producing a short written insights report.
