@@ -1,8 +1,10 @@
 # excel-cookies-analysis
 
+
 ## Cookies Sales Dashboard
 
-![Cookies Sales Dashboard](Dashboard.png)
+![Cookies Sales Dashboard](Project%202%20-%20Cookies/Dashboard.png)
+
 
 
 
